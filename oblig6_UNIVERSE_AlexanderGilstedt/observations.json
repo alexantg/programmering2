@@ -1,0 +1,186 @@
+[ {
+  "id" : 1,
+  "name" : "Snail-observation",
+  "animal" : {
+    "type" : "invertebrate",
+    "name" : "Phil",
+    "scientificName" : "Lymnae",
+    "numberofLegs" : 0,
+    "livesAtSea" : true,
+    "length" : 0.4
+  },
+  "location" : {
+    "name" : "West WASP-38 b",
+    "longitude" : 114.109497,
+    "latitude" : 22.396427,
+    "onPlanet" : {
+      "name" : "Wasp-38 b",
+      "radius" : 87935.16,
+      "mass" : 6.52912E27
+    },
+    "biomlistAsString" : "Desert"
+  },
+  "localDate" : "2019-05-11",
+  "number" : 3,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/5/53/Snail-wiki-120-Zachi-Evenor.jpg",
+  "notes" : "Spotted some snails. Think i am going to head home"
+}, {
+  "id" : 2,
+  "name" : "Sparrow-observation",
+  "animal" : {
+    "type" : "bird",
+    "name" : "Bill",
+    "scientificName" : "House sparrow",
+    "numberofLegs" : 2,
+    "canFly" : true,
+    "weight" : 0.24,
+    "topSpeedKmh" : 46.0
+  },
+  "location" : {
+    "name" : "Central Kepler K2100",
+    "longitude" : 2.213749,
+    "latitude" : 46.227638,
+    "onPlanet" : {
+      "name" : "K2-100",
+      "radius" : 848754.0,
+      "mass" : 2.4463715999999998E30
+    },
+    "biomlistAsString" : "Forrest,Savanna"
+  },
+  "localDate" : "2018-02-28",
+  "number" : 1,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/6/6e/Passer_domesticus_male_%2815%29.jpg",
+  "notes" : "Great find"
+}, {
+  "id" : 3,
+  "name" : "Eagle-observation",
+  "animal" : {
+    "type" : "bird",
+    "name" : "Yoshi",
+    "scientificName" : "Golden eagle",
+    "numberofLegs" : 2,
+    "canFly" : true,
+    "weight" : 3.6,
+    "topSpeedKmh" : 51.2
+  },
+  "location" : {
+    "name" : "North Kepler 1397b",
+    "longitude" : 10.752245,
+    "latitude" : 59.913868,
+    "onPlanet" : {
+      "name" : "Kepler-1397b",
+      "radius" : 10938.276,
+      "mass" : 0.0
+    },
+    "biomlistAsString" : "Tundra"
+  },
+  "localDate" : "2020-04-23",
+  "number" : 1,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/d/d6/Golden_Eagle_in_flight_-_5.jpg",
+  "notes" : "Traveled far and wide, found this guy"
+}, {
+  "id" : 4,
+  "name" : "Frog-observation",
+  "animal" : {
+    "type" : "amphibian",
+    "name" : "Ethan",
+    "scientificName" : "True toad",
+    "numberofLegs" : 4,
+    "hasTale" : false,
+    "habitat" : "Both on sea and land"
+  },
+  "location" : {
+    "name" : "South WASP-38 b",
+    "longitude" : -43.172897,
+    "latitude" : -22.906847,
+    "onPlanet" : {
+      "name" : "Wasp-38 b",
+      "radius" : 87935.16,
+      "mass" : 6.52912E27
+    },
+    "biomlistAsString" : "TropicalForrest"
+  },
+  "localDate" : "2020-03-08",
+  "number" : 5,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Variegated_golden_frog_%28Mantella_baroni%29_Ranomafana.jpg",
+  "notes" : "Absolutely stunning"
+}, {
+  "id" : 5,
+  "name" : "Ant-observation",
+  "animal" : {
+    "type" : "invertebrate",
+    "name" : "Anstead",
+    "scientificName" : "Formicidae",
+    "numberofLegs" : 6,
+    "livesAtSea" : false,
+    "length" : 0.15
+  },
+  "location" : {
+    "name" : "West WASP-38 b",
+    "longitude" : 114.109497,
+    "latitude" : 22.396427,
+    "onPlanet" : {
+      "name" : "Wasp-38 b",
+      "radius" : 87935.16,
+      "mass" : 6.52912E27
+    },
+    "biomlistAsString" : "Desert"
+  },
+  "localDate" : "2015-06-20",
+  "number" : 20,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bullant_head_detail.jpg",
+  "notes" : "Not really a fan of ants, but got some pictures"
+}, {
+  "id" : 6,
+  "name" : "Owl-observation",
+  "animal" : {
+    "type" : "bird",
+    "name" : "Beau",
+    "scientificName" : "Strigiformes",
+    "numberofLegs" : 2,
+    "canFly" : true,
+    "weight" : 1.5,
+    "topSpeedKmh" : 55.0
+  },
+  "location" : {
+    "name" : "Central Kepler K2100",
+    "longitude" : 2.213749,
+    "latitude" : 46.227638,
+    "onPlanet" : {
+      "name" : "K2-100",
+      "radius" : 848754.0,
+      "mass" : 2.4463715999999998E30
+    },
+    "biomlistAsString" : "Forrest,Savanna"
+  },
+  "localDate" : "2012-12-12",
+  "number" : 2,
+  "pictureUrl" : "https://upload.wikimedia.org/wikipedia/commons/f/f2/Eastern_Barn_Owl_%28Tyto_javanica_stertens%29%2C_Raigad%2C_Maharashtra.jpg",
+  "notes" : "Did not expect to find this, but glad i did"
+}, {
+  "id" : 7,
+  "name" : "Test-observation",
+  "animal" : {
+    "type" : "amphibian",
+    "name" : "Bob",
+    "scientificName" : "Frog",
+    "numberofLegs" : 4,
+    "hasTale" : true,
+    "habitat" : "Land"
+  },
+  "location" : {
+    "name" : "North-Mars",
+    "longitude" : 1234.01,
+    "latitude" : 1.2,
+    "onPlanet" : {
+      "name" : "Mars",
+      "radius" : 1234.0,
+      "mass" : 123456.0
+    },
+    "biomlistAsString" : "Desert,Tundra"
+  },
+  "localDate" : "2020-04-23",
+  "number" : 2,
+  "pictureUrl" : "https://cdn.pixabay.com/photo/2014/11/09/10/04/figure-523375_960_720.jpg",
+  "notes" : "Lol a frog"
+} ]

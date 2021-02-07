@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90ed107a-f4d8-4e7d-9da5-02be447aae2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/oblig6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Oblig6_UNIVERSE_AlexanderGilstedt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/src/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/src/no/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/src/no/hiof/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/src/no/hiof/larseknu/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../oblig2/__MACOSX/Oblig2_ProposedSolution/src/no/hiof/larseknu/oblig2/._PlanetSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/no/hiof/alexantg/oblig6/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/no/hiof/alexantg/oblig6/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/no/hiof/alexantg/oblig6/controller/MolController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/no/hiof/alexantg/oblig6/controller/MolController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/vue/views/create-observation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/vue/views/create-observation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hiof/alexantg/oblig6/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hiof/alexantg/oblig6/Application.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Zvp4jLGhqjFZgSM2VTT0LqT8Bf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="no.hiof.alexantg.oblig6.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.alexantg.oblig6.Application" />
+      <module name="Oblig6_UNIVERSE_AlexanderGilstedt.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.alexantg.oblig6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.alexantg.oblig6.Main" />
+      <module name="Oblig6_UNIVERSE_AlexanderGilstedt.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.alexantg.oblig6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90ed107a-f4d8-4e7d-9da5-02be447aae2c" name="Default Changelist" comment="" />
+      <created>1585729232531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585729232531</updated>
+      <workItem from="1585729236617" duration="24289000" />
+      <workItem from="1585837569946" duration="3615000" />
+      <workItem from="1585894222222" duration="17974000" />
+      <workItem from="1586081432530" duration="4382000" />
+      <workItem from="1586086058434" duration="26446000" />
+      <workItem from="1586446411703" duration="4048000" />
+      <workItem from="1586529152752" duration="1213000" />
+      <workItem from="1586808632469" duration="3343000" />
+      <workItem from="1586853455552" duration="1276000" />
+      <workItem from="1586947261121" duration="4809000" />
+      <workItem from="1586981150730" duration="9061000" />
+      <workItem from="1587118101836" duration="7964000" />
+      <workItem from="1587380344562" duration="22932000" />
+      <workItem from="1587570278817" duration="3661000" />
+      <workItem from="1587573962097" duration="3191000" />
+      <workItem from="1587580998570" duration="3332000" />
+      <workItem from="1587628504031" duration="14327000" />
+      <workItem from="1587736517875" duration="658000" />
+      <workItem from="1587737484451" duration="3414000" />
+      <workItem from="1588238257018" duration="79000" />
+      <workItem from="1588505754989" duration="1397000" />
+      <workItem from="1589708476198" duration="528000" />
+      <workItem from="1594058281136" duration="1372000" />
+      <workItem from="1596742616085" duration="881000" />
+      <workItem from="1597744538252" duration="183000" />
+      <workItem from="1598040981313" duration="273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

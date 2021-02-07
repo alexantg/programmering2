@@ -1,0 +1,173 @@
+[ {
+  "name" : "Name",
+  "pictureUrl" : "",
+  "centerStar" : {
+    "type" : "star",
+    "name" : "Star",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "effectiveTemperature" : 0.0,
+    "readiusInRsun" : 0.0,
+    "massInMsun" : 0.0
+  },
+  "planets" : [ {
+    "type" : "Planet",
+    "name" : "PlanetName1",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  }, {
+    "type" : "Planet",
+    "name" : "PlanetName2",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  }, {
+    "type" : "Planet",
+    "name" : "PlanetName3",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  } ]
+}, {
+  "name" : "Name2",
+  "pictureUrl" : "",
+  "centerStar" : {
+    "type" : "star",
+    "name" : "Star",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "effectiveTemperature" : 0.0,
+    "readiusInRsun" : 0.0,
+    "massInMsun" : 0.0
+  },
+  "planets" : [ {
+    "type" : "Planet",
+    "name" : "PlanetName4",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  }, {
+    "type" : "Planet",
+    "name" : "PlanetName5",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  }, {
+    "type" : "Planet",
+    "name" : "PlanetName6",
+    "pictureUrl" : "",
+    "mass" : 0.0,
+    "radius" : 0.0,
+    "semiMajorAxis" : 0.0,
+    "eccentricity" : 0.0,
+    "orbitalPeriod" : 0.0,
+    "centralCelestialBody" : {
+      "type" : "star",
+      "name" : "Star",
+      "pictureUrl" : "",
+      "mass" : 0.0,
+      "radius" : 0.0,
+      "effectiveTemperature" : 0.0,
+      "readiusInRsun" : 0.0,
+      "massInMsun" : 0.0
+    },
+    "radiusInRearth" : 0.0,
+    "radiusInRjup" : 0.0,
+    "surfaceGravity" : "NaN",
+    "massInMjup" : 0.0,
+    "massInMearth" : 0.0
+  } ]
+} ]
